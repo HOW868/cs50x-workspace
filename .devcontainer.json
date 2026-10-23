@@ -1,0 +1,10 @@
+{
+  "image": "cs50/codespace",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "cs50.cs50"
+      ]
+    }
+  }
+}
